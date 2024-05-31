@@ -6,9 +6,10 @@
 4. Once you have the key copied, create a varible within the .env file called API_KEY and set it equal to the key e.g. API_KEY = key
 5. You can now run the program. Do [ python3 frontend.py ] in the console (make sure you're in the right directory) or run from VSCode
 
-## Information
+## Information 
 
 SalesQL utilizes a REST API which enocdes the response bodies in JSON. SalesQL has two different type API endpoints: Person API and Organization API
+For more info please read the <a href="https://salesql.readme.io/reference/intro-to-the-salesql-api">SalesQL API Documentation</a>
 This program utilizes these APIs to allow us to programtically search for prospects. 
 
 Issues: 
