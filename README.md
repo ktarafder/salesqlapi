@@ -8,9 +8,9 @@
 
 ## Information 
 
-SalesQL utilizes a REST API which enocdes the response bodies in JSON. SalesQL has two different type API endpoints: Person API and Organization API
+SalesQL utilizes a REST API which enocdes the response bodies in JSON. SalesQL has two different type API endpoints: Person API and Organization API. <br />
+This program utilizes these APIs to allow us to programtically search for prospects. <br />
 For more info please read the <a href="https://salesql.readme.io/reference/intro-to-the-salesql-api">SalesQL API Documentation</a>
-This program utilizes these APIs to allow us to programtically search for prospects. 
 
 Issues: 
  - This API is quite janky, especially the person search. Right now, it doesn't work great and will often not find the person. 
