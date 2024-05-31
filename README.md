@@ -26,6 +26,7 @@ Backend:
    - One function to handle search of person using full name and organization 
 
 Frontend:
- - Develop a console based application that allows user to type in numbered options to navigate 
+ - Develop a console based application that allows user to type in numbered options to navigate
+   
  TODO:
  - Translate this frontend menu logic into an UI using tkinter
