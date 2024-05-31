@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+
+env/
+var/
+.env
+
+# Mac OS-specific storage files
+.DS_Store
+
+# VSCode
+.vscode/
+*.code-workspace
